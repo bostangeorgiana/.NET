@@ -1,0 +1,6 @@
+@Tema_individuala_HostAddress = http://localhost:5150
+
+GET {{Tema_individuala_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
